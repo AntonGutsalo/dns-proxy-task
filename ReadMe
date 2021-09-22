@@ -1,0 +1,9 @@
+In order to launch our program we need to install all the libraries we use.
+After successful installation we can run the program.
+Firstly we need to launch the server, and after that the client
+To check the work of the blacklist user needs to input any domain name into the "BlackList" file.
+To check the work of the dns proxy server user needs to input any domain name into the "DnsServer" file except "google.com",
+because it`s domain name in "BlackList" by default.
+If other data was entered, this program will handle them accordingly to the server
+When entering data that is included in the "DnsServer" file and is not included in the "BlackList" file (for example: dou.ua),
+user must obtain an ip address of the domain name for which the request occurred

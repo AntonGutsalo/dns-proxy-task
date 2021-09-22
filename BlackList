@@ -1,0 +1,7 @@
+{
+    "black_list": [
+                  "google.com",
+                  "youtube.com",
+                  "ukrnet.ua"
+                  ]
+}
